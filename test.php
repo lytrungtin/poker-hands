@@ -35,6 +35,7 @@ function poker_hands ($string) {
 			return "2P";
 		}
 	}
+	return "--";
 }
 
 echo poker_hands($_GET['string']);
