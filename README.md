@@ -11,3 +11,9 @@ Output a valid poker hand.
 
 ・The poker hands are shown in Table 1. If the 5 cards produce no hands, the output is “--”.  
 ・Cards don’t include a Joker and there are 52 cards in the deck.
+
+For example, if the input string is D4C4C8D8S4, then there is a Full House, so output is FH.
+
+if the input string is S8D3HQS3CQ, it has Two pairs. the output is 2P.
+
+
